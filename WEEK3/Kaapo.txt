@@ -1,0 +1,2 @@
+I tried from the terminal, but I didn't really get it to work by mac, so I discovered the GitHub desktop and vola!
+Puling is simple and commiting too.
